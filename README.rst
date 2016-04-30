@@ -9,7 +9,7 @@ pySerial
   ライセンスの下で配布されています．詳細は末尾の「ライセンス」を
   読んで下さい．
 
-.. noet:: 注意
+.. warning:: 注意
   このドキュメントは 2000 年ごろのもので、現在の pySerial に合っていな
   いかもしれません。
   最新版は https://pyserial.readthedocs.io/en/latest/
